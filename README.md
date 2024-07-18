@@ -2,7 +2,7 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-## Working with Mnist dataset with implementation of different models and machine learning techniques.
+## Working with Mnist dataset usiing different models and machine learning techniques.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
