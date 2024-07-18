@@ -20,12 +20,12 @@
 - Score of Stacking Classifier
 
 
-  ### Keep specific digits using PCA and clustering
+### Keep specific digits using PCA and clustering
   - PCA and visualization of two components
   - K-Means clstering
  
 
-  ### Build a feed forward neural network using keras
+### Build a feed forward neural network using keras
   - Adam optimizer
   - Plot history of loss and accuracy of model
   - Regularization model to avoid oerfitting
