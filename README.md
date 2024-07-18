@@ -37,3 +37,7 @@
 - Adam optimizer
 - Monitor validation set
 - Plot history of loss and accuracy
+
+### Build a vanilla auto-encoder 
+- Monitor validation set
+- Calculation of reconstruction error
